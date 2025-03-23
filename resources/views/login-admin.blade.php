@@ -33,16 +33,10 @@
                                                 autocomplete="off" value="12345">
                                             <div class="invalid-feedback">Please enter your password!</div>
                                         </div>
-                                        <div class="col-12">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" name="remember_me"
-                                                    value="true" id="remember_me" autocomplete="off">
-                                                <label class="form-check-label" for="remember_me">Remember me</label>
-                                            </div>
-                                        </div>
                                         <div class="col-12 pt-2">
                                             <button class="btn btn-secondary w-100 p-2" type="submit">Login</button>
                                         </div>
+                                        <p><a href="{{url('user')}}">Goto User Login</a></p>
                                     </form>
                                 </div>
                             </div>
