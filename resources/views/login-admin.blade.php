@@ -30,7 +30,7 @@
                                         <div class="col-12">
                                             <label for="password" class="form-label">Password</label>
                                             <input type="password" name="password" id="password" class="form-control"
-                                                autocomplete="off" value="12345">
+                                                autocomplete="off" value="">
                                             <div class="invalid-feedback">Please enter your password!</div>
                                         </div>
                                         <div class="col-12 pt-2">
